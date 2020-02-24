@@ -1,7 +1,6 @@
 Desafios para fortalecer alguns conceitos, entre eles:
 
-Objetos;
-Vetores.
+                                                   Objetos  Vetores.
 Construção e impressão de objetos
 Crie um programa que armazena dados da empresa Rocketseat dentro de um objeto chamado 
 empresa. Os dados a serem armazenados são:
@@ -32,7 +31,8 @@ A empresa Rocketseat está localizada em Rua Guilherme Gembala, 260
 Obs. Para imprimir em tela utilize o formato de template strings, por exemplo
 
 console.log(`O nome do usuário é ${usuario.nome}`);
-Vetores e objetos
+
+                                                      Vetores e objetos
 
 Crie um programa com um objeto para armazenar dados de um programador como nome, idade e tecnologias que trabalha.
 
